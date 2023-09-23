@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "GZkyWTv85rdyNGsdVlkW3PYCUG/g7JZ5uDaghu9vEJtlSrhJm9x8QVl4dgi5ldvTyNvcyAbumgKNKUDEIfcL1A==",
+  "success": true,
+  "projectFilePath": "C:\\Projeto A -deboramg\\A\\BackEnd\\ACDRJ API\\A\\ACDRJ API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\debor\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\debor\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\debor\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\debor\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\debor\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\debor\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

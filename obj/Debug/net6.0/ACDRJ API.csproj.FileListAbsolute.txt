@@ -1,0 +1,32 @@
+C:\Projeto A -deboramg\A\BackEnd\ACDRJ API\A\obj\Debug\net6.0\ACDRJ API.csproj.AssemblyReference.cache
+C:\Projeto A -deboramg\A\BackEnd\ACDRJ API\A\obj\Debug\net6.0\ACDRJ API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto A -deboramg\A\BackEnd\ACDRJ API\A\obj\Debug\net6.0\ACDRJ API.AssemblyInfoInputs.cache
+C:\Projeto A -deboramg\A\BackEnd\ACDRJ API\A\obj\Debug\net6.0\ACDRJ API.AssemblyInfo.cs
+C:\Projeto A -deboramg\A\BackEnd\ACDRJ API\A\obj\Debug\net6.0\ACDRJ API.csproj.CoreCompileInputs.cache
+C:\Projeto A -deboramg\A\BackEnd\ACDRJ API\A\obj\Debug\net6.0\ACDRJ API.MvcApplicationPartsAssemblyInfo.cs
+C:\Projeto A -deboramg\A\BackEnd\ACDRJ API\A\obj\Debug\net6.0\ACDRJ API.MvcApplicationPartsAssemblyInfo.cache
+C:\Projeto A -deboramg\A\BackEnd\ACDRJ API\A\bin\Debug\net6.0\appsettings.Development.json
+C:\Projeto A -deboramg\A\BackEnd\ACDRJ API\A\bin\Debug\net6.0\appsettings.json
+C:\Projeto A -deboramg\A\BackEnd\ACDRJ API\A\bin\Debug\net6.0\ACDRJ API.exe
+C:\Projeto A -deboramg\A\BackEnd\ACDRJ API\A\bin\Debug\net6.0\ACDRJ API.deps.json
+C:\Projeto A -deboramg\A\BackEnd\ACDRJ API\A\bin\Debug\net6.0\ACDRJ API.runtimeconfig.json
+C:\Projeto A -deboramg\A\BackEnd\ACDRJ API\A\bin\Debug\net6.0\ACDRJ API.dll
+C:\Projeto A -deboramg\A\BackEnd\ACDRJ API\A\bin\Debug\net6.0\ACDRJ API.pdb
+C:\Projeto A -deboramg\A\BackEnd\ACDRJ API\A\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Projeto A -deboramg\A\BackEnd\ACDRJ API\A\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projeto A -deboramg\A\BackEnd\ACDRJ API\A\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projeto A -deboramg\A\BackEnd\ACDRJ API\A\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projeto A -deboramg\A\BackEnd\ACDRJ API\A\obj\Debug\net6.0\staticwebassets\msbuild.ACDRJ API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projeto A -deboramg\A\BackEnd\ACDRJ API\A\obj\Debug\net6.0\staticwebassets\msbuild.build.ACDRJ API.props
+C:\Projeto A -deboramg\A\BackEnd\ACDRJ API\A\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ACDRJ API.props
+C:\Projeto A -deboramg\A\BackEnd\ACDRJ API\A\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ACDRJ API.props
+C:\Projeto A -deboramg\A\BackEnd\ACDRJ API\A\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Projeto A -deboramg\A\BackEnd\ACDRJ API\A\obj\Debug\net6.0\staticwebassets.build.json
+C:\Projeto A -deboramg\A\BackEnd\ACDRJ API\A\obj\Debug\net6.0\staticwebassets.development.json
+C:\Projeto A -deboramg\A\BackEnd\ACDRJ API\A\obj\Debug\net6.0\scopedcss\bundle\ACDRJ API.styles.css
+C:\Projeto A -deboramg\A\BackEnd\ACDRJ API\A\obj\Debug\net6.0\ACDRJ API.csproj.CopyComplete
+C:\Projeto A -deboramg\A\BackEnd\ACDRJ API\A\obj\Debug\net6.0\ACDRJ API.dll
+C:\Projeto A -deboramg\A\BackEnd\ACDRJ API\A\obj\Debug\net6.0\refint\ACDRJ API.dll
+C:\Projeto A -deboramg\A\BackEnd\ACDRJ API\A\obj\Debug\net6.0\ACDRJ API.pdb
+C:\Projeto A -deboramg\A\BackEnd\ACDRJ API\A\obj\Debug\net6.0\ACDRJ API.genruntimeconfig.cache
+C:\Projeto A -deboramg\A\BackEnd\ACDRJ API\A\obj\Debug\net6.0\ref\ACDRJ API.dll

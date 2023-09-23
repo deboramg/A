@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ACDRJ API.props" />
+</Project>
